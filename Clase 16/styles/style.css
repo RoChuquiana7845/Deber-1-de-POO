@@ -167,3 +167,8 @@ header {
     display: flex;
     justify-content: space-around;
 }
+
+.link {
+    color:white;
+    font-size: 20px;
+}
